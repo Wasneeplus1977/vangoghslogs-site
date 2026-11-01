@@ -101,3 +101,6 @@ footer a { border: 0; }
 }
 .contact-link a:hover { opacity: 0.92; }
 .contact-link a:active { transform: scale(0.98); }
+
+/* De makersregel onder de links in de voet (prompt 108). */
+footer .maker { margin: 8px 0 0; font-size: 14px; }
